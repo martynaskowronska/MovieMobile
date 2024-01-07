@@ -1,0 +1,18 @@
+{
+    "add": "Dodaj",
+    "login": "Zaloguj",
+    "register": "Zarejestruj",
+    "username": "Nazwa uzytkowniak",
+    "password": "Hasło",
+    "loginInfo": "Nie masz konta? Zarejestruj sie tutaj!",
+    "registerInfo": "Masz juz konto? Zaloguj się tutaj!",
+    "location": "Jesteś obecnie w",
+    "rateIt": "Oceń",
+    "rate": "Oceń",
+    "list": "Lista filmów",
+    "edit": "Edytuj",
+    "title": "Tytuł",
+    "description": "Opis",
+    "save": "Zapisz",
+    "delete": "Usuń"
+}

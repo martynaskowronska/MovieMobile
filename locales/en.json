@@ -1,0 +1,18 @@
+{
+    "add": "Add new",
+    "login": "Login",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "loginInfo": "You don't have an account? Register here!",
+    "registerInfo": "You already have an account? Login here!",
+    "location": "You are currently in",
+    "rateIt": "Rate it",
+    "rate": "Rate",
+    "list": "List of movies",
+    "edit": "Edit",
+    "title": "Title",
+    "description": "Description",
+    "save": "Save",
+    "delete": "Delete"
+}
